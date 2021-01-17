@@ -1,3 +1,3 @@
 # Cpp
-A self referral and practice collection for beginers as a reference of C++ programming languges.
- contains various problems and solutions
+A self referral and practice problems collection of C++ programming languges.
+ Contains various problems and solutions with comments.
